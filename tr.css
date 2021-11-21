@@ -1,0 +1,53 @@
+.main{
+    padding-top: 10%;
+    background-color: rgb(170, 243, 248);
+} 
+body{
+ 
+    bottom: 10%;
+margin:0px;
+text-align: center;
+/* background-color: peachpuff; */
+font-family: 'Noto Sans', sans-serif;
+
+}
+h1{
+    font-family: 'Sacramento', cursive; 
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    margin: 10%;
+    margin: 0 auto 0 auto;
+   }
+.seccloud{
+position: absolute;
+left: 100px;
+bottom: 300px;
+}
+
+.fstcloud{
+position: absolute;
+right: 100px;
+top: 50px;
+
+}
+.pp{
+    position:absolute;
+    top: 20px;
+    left: auto;
+}
+.middle-container{
+
+
+}
+
+
+.bottom-container{
+
+
+}
